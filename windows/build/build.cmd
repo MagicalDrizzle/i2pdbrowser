@@ -8,7 +8,7 @@ setlocal enableextensions
 
 set CURL=%~dp0curl.exe
 set FFversion=128.3.0esr
-set I2Pdversion=2.53.1
+set I2Pdversion=2.54.0
 set locale=en-US
 call :GET_PROXY
 call :GET_ARCH
